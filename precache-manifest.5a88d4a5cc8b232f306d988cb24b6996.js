@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d422cada542cf0de70614dfd38d76e4",
+    "revision": "77cfbae33bd899dee5f624f57b0829f8",
     "url": "/cocktailsDB/index.html"
   },
   {
-    "revision": "0968314e42699473ec9e",
+    "revision": "509ec3c2934cdbd54de2",
     "url": "/cocktailsDB/static/css/main.db6e84ad.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocktailsDB/static/js/2.72303b8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0968314e42699473ec9e",
-    "url": "/cocktailsDB/static/js/main.1ba51391.chunk.js"
+    "revision": "509ec3c2934cdbd54de2",
+    "url": "/cocktailsDB/static/js/main.27aad8eb.chunk.js"
   },
   {
     "revision": "34d5baffa9417737e620",
